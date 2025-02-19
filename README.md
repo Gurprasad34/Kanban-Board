@@ -10,7 +10,7 @@ A simple Kanban Board with secure login using JWT authentication. Users can log 
 - Task management (add, move, delete tasks)
 - Session handling and auto-logout
 
-Technologies Used
+# Technologies Used
 
 - React, React Router
 - Tailwind CSS
